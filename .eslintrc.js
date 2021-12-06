@@ -30,4 +30,8 @@ module.exports = {
       },
     ],
   },
+  parserOptions: {
+    soureceType: 'module',
+    allowImportExportEverywhere: true,
+  },
 }

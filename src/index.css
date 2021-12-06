@@ -4,6 +4,14 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: rgb(0, 255, 21);
-  background-color: black;
+  background-color: rgb(56, 56, 56);
   padding: 1rem 2rem;
+}
+
+a {
+  color: rgb(0, 175, 15);
+}
+
+a:visited {
+  color: rgb(0, 128, 0);
 }
